@@ -7,7 +7,7 @@
 * lover of people
 
 [code]: https://radicle.network/nodes/rad.kludgecs.com
-[radicle]: https://radicle.xyz
+[radicle]: https://radicle.dev
 [chat]: https://matrix.to/#/@lveneris:kludgecs.com
 [matrix]: https://matrix.org
 [poetry]: https://www.brinkerhoffpoetry.org/poems/having-a-coke-with-you
